@@ -1,4 +1,4 @@
-# Exercise 1: Greeting and Age Check
+# Exercise 1: Greeting and Age Check.py
 navn = input("Hva heter du? ")
 alder = int(input("Hvor gammel er du? "))
 
